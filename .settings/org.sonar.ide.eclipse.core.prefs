@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+extraProperties=sonar.core.codeCoveragePlugin\=jacoco\r\nsonar.jacoco.reportPath\=D\:\\fseworkspace\\projectmanager/../target/jacoco.exec\r\nsonar.dynamicAnalysis\=reuseReports
+projectKey=fse\:projectmanager
+serverUrl=http\://localhost\:9000
+version=2
